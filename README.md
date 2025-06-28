@@ -50,9 +50,8 @@ MIT — Free for personal and commercial use.
 
 ## 🚀 آموزش نصب
 
-۱. فایل CSS را در مسیر `static/css/` پروژه کپی کنید.  
-۲. فونت فارسی مثل `IranSans` را در مسیر `static/font/` قرار دهید.  
-۳. در فایل `settings.py` تنظیم زیر را اضافه کنید:
+1. فایل CSS را در مسیر `static/css/` پروژه کپی کنید.   
+2. در فایل `settings.py` تنظیم زیر را اضافه کنید:
 
 ```python
 JAZZMIN_SETTINGS = {
@@ -60,7 +59,7 @@ JAZZMIN_SETTINGS = {
 }
 ```
 
-۴. زبان پروژه را روی `fa-ir` قرار دهید و دستورات زیر را اجرا کنید:
+3. زبان پروژه را روی `fa-ir` قرار دهید و دستورات زیر را اجرا کنید:
 
 ```bash
 django-admin makemessages -l fa

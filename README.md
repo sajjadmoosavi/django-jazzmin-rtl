@@ -66,6 +66,18 @@ django-admin makemessages -l fa
 django-admin compilemessages
 ```
 
+## 🖼️ Screenshot
+
+screenshot:
+
+```markdown
+![django-jazzmin-rtl](screenshots/screenshot1.png)
+![django-jazzmin-rtl](screenshots/screenshot2.png)
+```
+
+
+
+---
 ## ✅ مجوز استفاده
 
 مجوز MIT — استفاده رایگان برای پروژه‌های شخصی و تجاری.

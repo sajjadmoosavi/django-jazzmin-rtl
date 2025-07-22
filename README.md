@@ -70,12 +70,9 @@ django-admin compilemessages
 
 screenshot:
 
-```markdown
-## نمونه تصاویر
-
 ![sidebar menu and other](screenshots/screenshot1.png)
 ![sidebar and other components](screenshots/screenshot2.png)
-```
+
 
 
 
